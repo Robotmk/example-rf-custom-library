@@ -1,8 +1,8 @@
-No .devcontainer found — skipping Codespaces badge.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=1232117042)
 
 > **This repository is automatically synced from [elabit/robotmk-starter](https://github.com/elabit/robotmk-starter/tree/main/examples/rf-custom-library).**
 > Do not edit files here directly — changes will be overwritten on the next sync.
-> Last sync: [`0da0bcc`](https://github.com/elabit/robotmk-starter/commit/0da0bccbfc0819646e78fa57e701b44cae756b69)
+> Last sync: [`cc671f8`](https://github.com/elabit/robotmk-starter/commit/cc671f82eff0bb3e7e11fdca224e501b0115eccb)
 
 ---
 # rf-custom-library
@@ -100,4 +100,4 @@ Reach out to us via mail at robotmk.org or book a free [clarification call](http
 *Founder of Robotmk*  
 *Product Manager of Synthetic Monitoring at Checkmk*
 
-No .devcontainer found — skipping Codespaces badge.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=1232117042)
